@@ -10,7 +10,7 @@ This is my beginner portfolio website built in HTML & CSS only.
 
 ## How to Run 🚀
 
-1. Clone this repository: `git clone https://github.com/likhitdhale/personal-portfolio.git`  
+1. Clone this repository: `git clone https://github.com/LRDHALE/Personal-Portfolio.git`  
 2. Open `index.html` in your browser.
 
 ## Image Guidelines
@@ -25,6 +25,11 @@ To maintain optimal website performance:
 To optimize new images:
 1. Run `./optimize-images.sh` (requires ImageMagick)
 2. Use `<picture>` element with WebP and fallback in HTML
+
+## Improvements 🛠️
+
+- Plan to create a dynamic project tile using React
+- Future upgrade: rebuild the entire portfolio using React for better scalability and interactivity
 
 
 ## Contact 📧
